@@ -29,7 +29,7 @@
       "secrets": [
         {
           "name": "API_KEYS",
-          "valueFrom": "arn:aws:secretsmanager:ap-south-1:887450919432:secret:api_keys-tuChyO"
+          "valueFrom": "arn:aws:secretsmanager:ap-south-1:887450919432:secret:api_keys1-0HVpum"
         }
         
       ],
